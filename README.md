@@ -8,12 +8,12 @@
 
 <h3>
 <p align="center" style="margin-bottom:32px">
- <a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a>   |   <a href="#layout">Layout</a>   |   <a href="#acesso">Acesso ao projeto</a> 
+ <a href="#sobre">Sobre</a> | <a href="#tecnologias">Tecnologias</a>   |   <a href="#layout">Layout</a>   |  <a href="#telas">Telas</a> | <a href="#acesso">Acesso ao projeto</a> 
 </p>
 </h3>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/carolvalenca/be-the-hero/blob/master/imgs/heroes.png?raw=true" height="350">
 </p>
 
 <h1 id="sobre"> Sobre</h1> 
@@ -43,6 +43,11 @@ Tal projeto tem como objetivo facilitar a conexão entre ONG's de serviço comun
 <h1 id="layout">Layout</h1>
 <p>O layout do projeto pode ser encontrado <a href="https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1">neste link</a>.</p>
 <br>
+
+<h1 id="telas">Telas</h1>
+<img src="https://github.com/carolvalenca/be-the-hero/blob/master/imgs/index.png?raw=true">
+<img src="https://github.com/carolvalenca/be-the-hero/blob/master/imgs/cadastro.png?raw=true">
+<img src="https://github.com/carolvalenca/be-the-hero/blob/master/imgs/casos.png?raw=true">
 
 <h1 id="acesso">Acesso ao projeto</h1>
 <p>Apesar de não estar hospedado, é possível acessar o projeto localmente. Para isso:</p>
