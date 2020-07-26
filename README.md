@@ -18,7 +18,7 @@
 
 <h1 id="sobre"> Sobre</h1> 
 <p>
-O Be The Hero é um projeto desenvolvido com base no evento <strong>Semana Omnistack 11</strong>, criado e distribuído pela <a href="https://rocketseat.com.br/">Rocketseat</a>.
+  O <strong>Be The Hero</strong> é um projeto desenvolvido com base no evento <strong>Semana Omnistack 11</strong>, criado e distribuído pela <a href="https://rocketseat.com.br/">Rocketseat</a>.
 Tal projeto tem como objetivo facilitar a conexão entre ONG's de serviço comunitário e pessoas dispostas a ajudá-las com doações.
 </p>
 <br>
@@ -53,7 +53,7 @@ Tal projeto tem como objetivo facilitar a conexão entre ONG's de serviço comun
 <p>Apesar de não estar hospedado, é possível acessar o projeto localmente. Para isso:</p>
 <ol>
 <li>Clone o Repositório
-<pre>git clone https://github.com/carolvalenca/nlw-starter.git</pre>
+<pre>git clone https://github.com/carolvalenca/be-the-hero.git</pre>
 </li>
 <li>Instale o <a href="https://nodejs.org/en/">Node.js</a> e o <a href="https://www.npmjs.com/">npm</a></li>
 <li>Entre na pasta do projeto e instale as dependências
